@@ -1,0 +1,9 @@
+@media screen and (max-width: 576px) {
+    .search-bar {
+        width: 100%;
+    }
+
+    .players-container {
+        align-items: center;
+    }
+}
